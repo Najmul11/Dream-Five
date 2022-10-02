@@ -1,0 +1,24 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+/* header area */
+header{
+    background-image: url(images/bg-1.png),url(images/bg-2.png);
+    background-repeat: no-repeat, no-repeat;
+    background-size:auto,200px;
+    background-position-x: left,95%;
+    background-position-y: 40%,80%;
+    height: 400px;
+}
+h1{
+    font-family: 'Berkshire Swash', cursive;
+}
+.span-text{
+text-decoration: underline;
+text-decoration-style:dashed;
+text-decoration-color: goldenrod;
+}
+
+/* player select section style */
+.border-{
+    border: 1px solid rgba(211, 211, 211, 0.131);
+}
